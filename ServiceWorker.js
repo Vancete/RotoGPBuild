@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-VirtualMotorsports24-0.1";
+const cacheName = "ivnz-RotoGP 24 - Montreal-0.1";
 const contentToCache = [
     "Build/Build.loader.js",
     "Build/Build.framework.js.unityweb",
