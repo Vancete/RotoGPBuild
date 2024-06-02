@@ -1,0 +1,18 @@
+{
+    "short_name": "GP Forocochia 2024 | Montreal",
+    "name": "GP Forocochia 2024 | Montreal",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/favicon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": "/",
+    "display": "fullscreen"
+}
